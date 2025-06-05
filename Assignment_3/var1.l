@@ -1,3 +1,6 @@
+/*  Write a program using YACC specifications to implement the syntax 
+analysis phase of a compiler to validate the type and syntax of variable 
+declarations in a C program. */
 %{
 #include<stdio.h>
 #include "y.tab.h"
